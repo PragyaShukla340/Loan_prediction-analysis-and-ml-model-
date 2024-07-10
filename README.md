@@ -41,15 +41,27 @@ The Tableau Dashboard provides an interactive visualization of the data. You can
 
   **Key Findings:**
 1.We can see that approximately 81% are Male and 19% are female.
+  <br>
 2.Percentage of applicants with no dependents is higher.
+  <br>
 3.There are more number of graduates than non graduates.
+  <br>
 4.Semi Urban people is slightly higher than Urban people among the applicants.
+  <br>
 5.Larger Percentage of people have a good credit history.
+  <br>
 6.The percentage of people that the loan has been approved has been higher rather than the percentage of applicant for which the loan has been declined.
+  <br>
 7.We can infer that percentage of married people who have got their loan approved is higher when compared to non- married people.
+  <br>
 8.The percentage of applicants with either 0 or 2 dependents have got their loan approved is higher.
+  <br>
 9.The percentage of applicants who are graduates have got their loan approved rather than the one who are not graduates.
+  <br>
 10.There is hardly any correlation between Loan_Status and Self_Employed applicants. So in short we can say that it doesn’t matter whether the applicant is self employed or not.
-- **Technologies Used:** The tools and technologies used by me are:
+  <br>
+- **Technologies Used:**
+ <br>The tools and technologies used by me are:
   1.Jupyter Notebook, Python and its various in-built libraries: For cleaning and analysing data and building ML model.
+  <br>
   2.Tableau : for building dashboard(for represnting data in visual format).
