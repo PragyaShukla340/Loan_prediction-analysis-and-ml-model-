@@ -1,6 +1,8 @@
 # Loan_prediction-analysis-and-ml-model-
 
-This project involves building a ML model to predict loan approval based on various attributes of the applicants. Below you will find the details of the attributes used in the dataset and their significance.
+This project involves building a ML model to predict loan approval based on various attributes of the applicants. 
+<br>
+Below you will find the details of the attributes used in the dataset and their significance.
 
 ## Attribute Significance
 
@@ -34,12 +36,15 @@ The Tableau Dashboard provides an interactive visualization of the data. You can
 ### Project Description
 
 - **Data Source:**
+  <br>
   The data has been taken from kaggle it's attributes and significance of attributes are discussed above.
   
 - **Analysis Goals:**
+  <br>
   Build a ML Model for predicting whether the loan of the candidate(based on input data) will be approved or declined.
 
   **Key Findings:**
+  <br>
 1.We can see that approximately 81% are Male and 19% are female.
   <br>
 2.Percentage of applicants with no dependents is higher.
@@ -61,7 +66,9 @@ The Tableau Dashboard provides an interactive visualization of the data. You can
 10.There is hardly any correlation between Loan_Status and Self_Employed applicants. So in short we can say that it doesn’t matter whether the applicant is self employed or not.
   <br>
 - **Technologies Used:**
- <br>The tools and technologies used by me are:
+ <br>
+  The tools and technologies used by me are:
+  <br>
   1.Jupyter Notebook, Python and its various in-built libraries: For cleaning and analysing data and building ML model.
   <br>
   2.Tableau : for building dashboard(for represnting data in visual format).
