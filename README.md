@@ -64,9 +64,8 @@ The Tableau Dashboard provides an interactive visualization of the data. You can
 9.The percentage of applicants who are graduates have got their loan approved rather than the one who are not graduates.
   <br>
 10.There is hardly any correlation between Loan_Status and Self_Employed applicants. So in short we can say that it doesn’t matter whether the applicant is self employed or not.
-  <br>
 - **Technologies Used:**
- <br>
+- <br>
   The tools and technologies used by me are:
   <br>
   1.Jupyter Notebook, Python and its various in-built libraries: For cleaning and analysing data and building ML model.
