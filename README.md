@@ -1,6 +1,6 @@
 # Loan_prediction-analysis-and-ml-model-
 
-This project involves building a model to predict loan approval based on various attributes of the applicants. Below you will find the details of the attributes used in the dataset and their significance.
+This project involves building a ML model to predict loan approval based on various attributes of the applicants. Below you will find the details of the attributes used in the dataset and their significance.
 
 ## Attribute Significance
 
