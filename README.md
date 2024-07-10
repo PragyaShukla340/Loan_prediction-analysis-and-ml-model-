@@ -24,7 +24,7 @@ This project involves building a model to predict loan approval based on various
 
 The Jupyter Notebook contains the data analysis code and the results. You can view it directly on GitHub:
 
-[View Jupyter Notebook](./data_analysis_ml.ipynb)
+[View Jupyter Notebook](./loan_analysis_ml.ipynb)
 
 ## Tableau Dashboard
 
