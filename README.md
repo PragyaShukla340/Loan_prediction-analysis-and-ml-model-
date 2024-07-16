@@ -30,7 +30,9 @@ The Jupyter Notebook contains the data analysis code and the results. You can vi
 
 ## Tableau Dashboard
 
-The Tableau Dashboard provides an interactive visualization of the data. You can view it on Tableau Public:
+The Tableau Dashboard provides an interactive visualization of the data. You can view it's pdf format here:
+<br>
+(./Dashboard.pdf)
 
 
 ### Project Description
