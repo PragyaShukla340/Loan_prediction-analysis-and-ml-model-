@@ -32,7 +32,7 @@ The Jupyter Notebook contains the data analysis code and the results. You can vi
 
 The Tableau Dashboard provides an interactive visualization of the data. You can view it's pdf format here:
 <br>
-[View Dashboard](https://github.com/PragyaShukla340/Loan_prediction-analysis-and-ml-model-/blob/main/dashboard.pdf))
+[View Dashboard](https://github.com/PragyaShukla340/Loan_prediction-analysis-and-ml-model-/blob/main/dashboard.pdf)
 
 
 ### Project Description
